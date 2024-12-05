@@ -1,7 +1,7 @@
 # Pembelajaran Mesin / Machine Learning. Algoritma, Kecerdasan Buatan 
 🎥 **Selamat datang di repositori *Machine Learning Tingkat Lanjut* !** 
 **Welcome to the *Machine Learning Tingkat Lanjut*  !** 
-**Materi materi dan program Game selama saya Berkuliah S1** 
+**Materi materi dan program Machine Learning selama saya Berkuliah Sarjana S1** 
 ---
 **Oleh / By:** *Hafizh Hasyhari*  
 [@hafizhhasyhari](https://github.com/hafizhhasyhari)
